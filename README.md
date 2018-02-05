@@ -6,6 +6,11 @@ I created it as a university project over about 17 or something weeks while also
 
 Some features of LibRec cannot be used in the GUI and can only use text datasets.
 
+### How to run
+Can run by:
+1. opening core folder as project in IDE OR
+2. running the LibRecGUI.jar file in the core folder.
+
 ### Acknowledgement
 
 All the info about original LibRec can be found at https://github.com/guoguibing/librec
