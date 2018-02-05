@@ -4,7 +4,7 @@ This is a GUI which hopefully helps users configure, run and evaluate recommenda
 
 I created it as a university project over about 17 or something weeks while also working on other subjects. The coding also is not too great due to me rushing and just being a student.
 
-Some features of LibRec cannot be used in the GUI and can only use text databases.
+Some features of LibRec cannot be used in the GUI and can only use text datasets.
 
 ### Acknowledgement
 
