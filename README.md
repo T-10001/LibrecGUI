@@ -37,9 +37,6 @@ ratings into either 1 or 0) and set the values for the threshold.
   - Can choose how to split the data into training set and testing set such as by ratio,
 certain number of user and/or items, and/or by k-fold cross-validation (with
 choice of number of folds).
-  - For k-fold cross-validation, the max number of folds is 10 since it has been
-deemed as optimal [5] and is commonly used. Although specifying of folds is still
-possible outside the GUI through configuration text files.
 
 - Algorithm parameter editor
   - Works similarly to the dataset parameter editor by allowing ranges of values to
