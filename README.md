@@ -14,7 +14,7 @@ offering more visual feedback.
 efficient way of viewing and working with the data. Also has toggle checkbox to instantly select
 all or deselect all rows visible in current view (ignores filtered out rows).
 
-- Ability to automation running many recommendation jobs in a sequence so user doesn’t have to
+- Ability to automate running many recommendation jobs in a sequence so user doesn’t have to
 manually start each recommendation after another.
 
 - Access to different windows and tabs at any time.
