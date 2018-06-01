@@ -2,8 +2,6 @@
 
 This is a GUI which hopefully helps users configure, run and evaluate recommendations faster using the LibRec library 2.0 found here https://github.com/guoguibing/librec
 
-I created it as a university project over about 17 or something weeks while also working on other subjects. The coding also is not too great due to me rushing and just being a student.
-
 Some features of LibRec cannot be used in the GUI and can only use text datasets.
 
 ### Features
